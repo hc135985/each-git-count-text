@@ -1,0 +1,16 @@
+{
+  "name": "each-git-count-text",
+  "version": "1.0.8",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "count-cli": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^8.0.0",
+    "inquirer": "^8.1.1"
+  }
+}
